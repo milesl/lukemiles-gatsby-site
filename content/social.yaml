@@ -1,8 +1,8 @@
 - name: linkedin
-  url: https://www.linkedin.com/in/milesl-dev/
+  url: https://www.linkedin.com/in/milesl-dev
 
 - name: twitter
-  url: https://twitter.com/username
+  url: https://twitter.com/Lukemiles1988
 
 - name: facebook
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://twitter.com/Lukemiles1988
+  url: https://github.com/milesl
 
 - name: goodreads
   url:
