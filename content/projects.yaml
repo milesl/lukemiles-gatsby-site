@@ -7,7 +7,7 @@
     - Entity Framework
   icon: github
 
-- name: Simple Crawlet
+- name: Simple Crawler
   url: https://github.com/milesl/simple-crawler
   description: A js dungeon crawler prototype
   status: in progress
