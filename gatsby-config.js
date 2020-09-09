@@ -10,10 +10,9 @@ module.exports = {
         options: {
           basePath: "/",
           contentPath: "content/",
-          showThemeLogo: true,
+          showThemeLogo: false,
           theme: "dark-blue",
         },
       },
-    ],
-    pathPrefix: "/lukemiles-gatsby-site"
+    ]
   }
